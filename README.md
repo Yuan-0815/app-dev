@@ -26,14 +26,9 @@ My first repository
 
 ---
 
-## Themes
+## Why It Is My Favorite
 
-- **Grief and Healing**  
-  The film explores how people cope with the grief of loss and the journey toward healing. Suzume’s emotional growth is at the heart of the narrative.
-
-- **The Connection Between Nature and People**  
-  The film makes a poignant statement about the delicate relationship humans share with nature, especially in the aftermath of a natural disaster.
-
+There’s something incredibly special about *Suzume* that resonates deeply with me. For one, the way it handles **grief** and **closure** hits home on a personal level. The protagonist’s journey to confront her past, find peace, and move forward feels so authentic — it’s a reminder that healing isn’t linear and sometimes, it’s okay to take time for yourself.
 ---
 
 -It serves as a task performance activity to demonstrate basic GITHUB operations such as creating a respitory, making branches, editing files, and submitting pull requests. 

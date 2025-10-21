@@ -36,6 +36,8 @@ My first repository
 
 ---
 
+![Suzume]([https://example.com/suzume.jpg](https://www.bing.com/images/search?view=detailV2&ccid=SkgRJq0A&id=B3E78AF39DBAD72A10019D5F7B520A4A2580F4D2&thid=OIP.SkgRJq0A9QC0sfKEfJqYcAHaEK&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.4a481126ad00f500b4b1f2847c9a9870%3frik%3d0vSAJUoKUntfnQ%26riu%3dhttp%253a%252f%252fstatic1.squarespace.com%252fstatic%252f51b3dc8ee4b051b96ceb10de%252f51ce6099e4b0d911b4489b79%252f639cdbf610006e68e498b0d4%252f1671901224968%252fSuzume.jpg%253fformat%253d1500w%26ehk%3dDfZGV0JSPgGYbx1h7cAWBXZ4VKokjRVk0EL%252fOz4eL5A%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=844&expw=1500&q=Suzume&FORM=IRPRST&ck=6A2799C0D017387F62B188E052A40F40&selectedIndex=2&itb=0))  
+
 -It serves as a task performance activity to demonstrate basic GITHUB operations such as creating a respitory, making branches, editing files, and submitting pull requests. 
 -The purpose of this project is for learning and practice only.
 

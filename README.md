@@ -31,6 +31,3 @@ My first repository
 There’s something incredibly special about *Suzume* that resonates deeply with me. For one, the way it handles **grief** and **closure** hits home on a personal level. The protagonist’s journey to confront her past, find peace, and move forward feels so authentic. It’s a reminder that healing isn’t linear and sometimes, it’s okay to take time for yourself.
 ---
 
--It serves as a task performance activity to demonstrate basic GITHUB operations such as creating a respitory, making branches, editing files, and submitting pull requests. 
--The purpose of this project is for learning and practice only.
-
